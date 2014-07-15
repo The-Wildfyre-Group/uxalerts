@@ -15,3 +15,21 @@
 h1.fs-xlrg {font-size: 60px;}
 
 .mb0 {margin-bottom: 0 !important;}
+
+.p50 {padding: 50px !important;}
+
+.panel {
+position: relative;
+border-width: 1px; 
+border-color: #ccc; 
+border-bottom-width: 1px;
+border-bottom-color: #ddd;
+border-radius: 3px;
+-webkit-box-shadow: none;
+border: none;
+box-shadow: 1px 1px 1px #bbb;
+border-left: 1px solid #ccc;
+border-top: 1px solid #ccc;
+}
+
+html body {background: #dcdcdc;}
