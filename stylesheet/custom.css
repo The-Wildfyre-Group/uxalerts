@@ -85,3 +85,6 @@ display: inline-block;
 }
 
 .btn-outline {background: transparent; border-color: #444; border-width: 2px;}
+
+
+.shuffle .panel.widget .table-layout img {padding: 10px;}
