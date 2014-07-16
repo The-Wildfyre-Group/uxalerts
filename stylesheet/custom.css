@@ -88,3 +88,8 @@ display: inline-block;
 
 
 .shuffle .panel.widget .table-layout img {padding: 10px;}
+
+#header.navbar {
+height: 75px;
+padding: 10px 0;
+}
