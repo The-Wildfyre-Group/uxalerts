@@ -43,7 +43,7 @@ html body {background: #dcdcdc;}
 }
 
 .owl-item img {
-	width: 685px;
+	width: 865px;
 }
 
 .np {padding: 0;}
@@ -69,3 +69,17 @@ html body {background: #dcdcdc;}
 .bdw3 {border-width: 3px}
 
 .fs10 {font-size: 10px;}
+
+.bd-black {border-color: #000;}
+
+.bd2 {border-width: 2px;}
+
+.bdb {border-bottom-style: solid;}
+
+
+.owl-theme .owl-controls .owl-pagination .owl-page span,
+.owl-theme .owl-controls .owl-pagination .owl-page.active span {
+width: 40px;
+height: 40px;
+display: inline-block;
+}
