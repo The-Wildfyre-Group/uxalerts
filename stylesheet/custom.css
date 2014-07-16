@@ -41,3 +41,7 @@ html body {background: #dcdcdc;}
 #header.navbar .navbar-header.bgcolor-white > .navbar-brand > .logo-figure {
 	background-image: url("../image/logo/logo-figure-inverse.png");
 }
+
+.owl-item img {
+	width: 685px;
+}
